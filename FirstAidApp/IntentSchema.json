@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "RecipeIntent",
+      "slots": [
+      {
+        "name" : "Item",
+        "type": "LIST_OF_ITEMS"
+      }
+     ]
+    },
+    {
+      "intent": "DoneIntent"
+    },
+    {
+      "intent": "QuitIntent"
+    },
+    {
+      "intent": "RestartIntent"
+    },
+    {
+      "intent": "ReadyIntent"
+    },
+    {
+      "intent": "ConfirmIntent"
+    },
+    {
+      "intent": "DenyIntent"
+    },
+    {
+      "intent": "WhatIntent"
+    },
+    {
+      "intent": "WhatCPRIntent"
+    },
+    {
+      "intent": "ConsciousIntent"
+    },
+    {
+      "intent": "AskIntent"
+    },
+    {
+      "intent": "RhythmIntent"
+    },
+    {
+      "intent": "EndIntent"
+    },
+    {
+      "intent": "HowChestIntent"
+    },
+    {
+      "intent": "HowRescIntent"
+    }
+  ]
+}

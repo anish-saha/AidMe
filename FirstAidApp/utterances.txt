@@ -1,0 +1,60 @@
+﻿RecipeIntent i need help with {Item}
+RecipeIntent someone has {Item}
+RecipeIntent this person has {Item}
+RecipeIntent someone is {Item}
+RecipeIntent {Item}
+
+
+DoneIntent done
+DoneIntent im done
+
+
+QuitIntent quit CPR
+QuitIntent stop CPR
+
+
+ReadyIntent ready
+ReadyIntent im ready
+ReadyIntent restart
+
+
+ConfirmIntent yes
+
+
+DenyIntent no
+DenyIntent exit app
+DenyIntent quit app
+
+
+WhatIntent what can i say
+
+
+WhatCPRIntent what can i say
+
+
+ConsciousIntent they are conscious
+ConsciousIntent conscious
+ConsciousIntent he is conscious
+ConsciousIntent she is conscious
+ConsciousIntent they are unconscious
+ConsciousIntent unconscious
+ConsciousIntent he is unconscious
+ConsciousIntent she is unconscious
+
+
+AskIntent yeah
+AskIntent yes
+
+
+EndIntent no
+EndIntent nope
+
+
+HowChestIntent how do i do chest compressions
+
+
+HowRescIntent how do i do breaths
+HowRescIntent how do i do rescue breaths
+
+
+RhythmIntent rhythm
